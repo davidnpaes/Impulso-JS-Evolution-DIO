@@ -1,0 +1,19 @@
+Comandos básicos terminal
+
+Windows:
+-cd (mudar de pasta)
+-dir (Listar arquivos e pastas dentro do diretório)
+-mkdir (Criar uma nova pasta)
+-del (Deleta um arquivo ou todos os arquivos dentro de uma pasta)
+-rmdir (Deleta uma pasta)
+
+Git Download
+- https://git-scm.com/downloads
+
+Comandos básicos GIT
+-git init (Mapear a pasta atual no GIT)
+-git status (Verificar o status dos arquivos)
+-git add (altera o status de um ou mais arquivos para staged)
+-git commit (Criar uma nova versão)
+-git push (Envia uma commit para o servidor)
+-git pull (Baixa a commit atual do servidor para a máquina local)
