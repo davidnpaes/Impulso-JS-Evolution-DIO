@@ -1,0 +1,44 @@
+REDES
+
+   LocalHost = 127.0.0.1
+	
+   TCP/IP
+
+	Camadas:
+	1. Física (Ex: placa de rede)
+	2. Rede (Ex: IP)
+	3. Transporte (Ex: TCP, UDP)
+	4. Aplicação (Ex: FTP, SMTP, HTTP)
+
+
+   TCP X UDP
+	UDP
+	 - Rápido
+	 - Não confiável (Não tem confirmação de envio/recebimento)
+	 - Muito usado em Livestream
+
+	TCP
+	 - HandShake (Confirmação de dispositivos envio/recebimento)
+	 - Presa pela integridade e ordem dos dados
+	 - Como um aplicativo de mensagens
+
+
+   Portas e suas principais saidas
+    - 20: FTP
+    - 22: SSH
+    - 25: SMTP
+    - 53: DNS
+    - 80: HTTP
+    - 443: HTTPS
+    - 1433: SQL
+
+
+
+WI-FI
+
+   Segurança
+    - WEP: Chaves de 64 bits e 128 bits
+    - WPA: Chave trocada periodicamente
+    - WPA2 (AES)(8-2.11i): mais segurança porém requer mais processamento
+
+   	
