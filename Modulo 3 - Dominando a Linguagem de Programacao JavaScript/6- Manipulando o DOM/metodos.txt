@@ -1,0 +1,17 @@
+Métodos
+
+
+> Retorna o elemento específico
+getElementById('ID')
+
+> Retorna um array com os elementos que se enquadram
+getElementsByTagName('nome da tag')
+getElementsByClassName('nome da classe')
+querySelectorAll('.classe tag tag')
+
+>Adicionar/Deletar elementos HTML
+createElement(elemento) - Cria um novo elemento HTML
+removeChild(elemento) - Remove um elemento filho
+appendChild(elemento) - Adiciona um elemento como filho
+replaceChild(new, old) - Substitui um elemento
+
